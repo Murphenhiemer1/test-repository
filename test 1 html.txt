@@ -1,10 +1,11 @@
 <!doctype html>
 <html>
 <head>
-<title> My first Website!<title>
+
 </head> 
 <body>
 <p> I swear itll work this time bro</p>
 <img src"cat-picture.jpg" alt="the internet is powered by cat"
+<title> My first Website!<title>
 </body>
 </html>
