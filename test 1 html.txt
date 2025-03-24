@@ -74,7 +74,7 @@
                 <div class="product">
                     <img src="jacket.jpg" alt="Leather Jacket">
                     <p>Classic Leather Jacket - $40</p>
-                </div>
+                </div> ciggarette 
             </div>
         </section>
         
