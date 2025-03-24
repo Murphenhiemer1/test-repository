@@ -19,7 +19,7 @@
             font-family: "Times New Roman", serif;
             font-size: 2em;
             font-weight: bold;
-            color: white;
+            color: pink;
             background-color: lavender;
             padding: 20px;
             text-shadow: -2px -2px 0 white, 2px -2px 0 white, -2px 2px 0 white, 2px 2px 0 white;
